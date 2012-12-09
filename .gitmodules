@@ -1,0 +1,9 @@
+[submodule "vendor/bootstrap-wysihtml5"]
+	path = vendor/bootstrap-wysihtml5
+	url = https://github.com/jhollingworth/bootstrap-wysihtml5/
+[submodule "vendor/backbone"]
+	path = vendor/backbone
+	url = git://github.com/documentcloud/backbone.git
+[submodule "vendor/underscore"]
+	path = vendor/underscore
+	url = git://github.com/documentcloud/underscore.git
