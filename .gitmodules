@@ -1,6 +1,6 @@
 [submodule "vendor/bootstrap-wysihtml5"]
 	path = vendor/bootstrap-wysihtml5
-	url = https://github.com/jhollingworth/bootstrap-wysihtml5/
+	url = git://github.com/jhollingworth/bootstrap-wysihtml5.git 
 [submodule "vendor/backbone"]
 	path = vendor/backbone
 	url = git://github.com/documentcloud/backbone.git
